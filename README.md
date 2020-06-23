@@ -102,7 +102,11 @@ end
 ```
 
 ##### Output 
+
 The following figure is the generated target : 
+
 ![alt text](target.JPG "Target")
-Which gives the following output after CFAR processing : 
+
+Which gives the following output after CFAR processing :
+
 ![alt text](cfar_output.JPG "2D CFAR output")
